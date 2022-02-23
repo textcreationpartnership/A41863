@@ -1,0 +1,385 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great and good news for the Church of England, if they please to accept thereof: or The latitudinarian Christians most humble address and advice to all the imposing clergy men of the said Church by what names or titles soever dignified or distinguished. With allowance, May the 28th 1688.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41863</idno>
+            <idno type="STC">Wing G1654A</idno>
+            <idno type="STC">ESTC R223643</idno>
+            <idno type="EEBO-CITATION">99833932</idno>
+            <idno type="PROQUEST">99833932</idno>
+            <idno type="VID">38411</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41863)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38411)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1833:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great and good news for the Church of England, if they please to accept thereof: or The latitudinarian Christians most humble address and advice to all the imposing clergy men of the said Church by what names or titles soever dignified or distinguished. With allowance, May the 28th 1688.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. L. and I. K.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Place of publication conjectured from Wing G1654.</note>
+                  <note>Date of publication from line below title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38411:1"/>
+            <!-- PDF PAGE 11 -->
+            <p>Great and Good News FOR THE <hi>Church of England,</hi> If they Pleaſe to Accept thereof: OR THE Latitudinarian Chriſtians Moſt Humble Addreſs and Advice To all the Impoſing Clergy Men Of the ſaid CHURCH, BY What Names or Titles ſoever Dignified or Diſtinguiſhed.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>With Allowance,</p>
+                        <closer>
+                           <dateline>
+                              <date>May the 28th 1688.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed for <hi>H. L.</hi> and <hi>I. K.</hi>
+            </p>
+         </div>
+         <div type="poem" subtype="to_the__reader">
+            <pb facs="tcp:38411:2"/>
+            <!-- PDF PAGE 12 -->
+            <head>A PLEADER TO THE NEEDER WHEN A READER.</head>
+            <lg>
+               <l>AS all, my friend, through wily knaves, full often suffer wrongs,</l>
+               <l>Forget not, pray, when it you've read, to whom this book belongs.</l>
+               <l>Than one Charles Clark, of Totham Hall, none to't a right hath better,</l>
+               <l>A <hi>wight,</hi> that same, more <hi>read</hi> than some in the lore of old <hi>black</hi>-letter.</l>
+               <l>And as C. C. in <hi>Esser</hi> dwells a shire at which all laugh.</l>
+               <l>His books must, sure, less tit seem drest, if they're not bound in <hi>calf!</hi>
+               </l>
+               <l>Care take, my friend, this book you ne'er with grease or dirt besmear it;</l>
+               <l>While none but awkward <hi>puppies</hi> will continue to <hi>"dog</hi>'s-ear" it!</l>
+               <l>And o'er my books when book-<hi>worms "grub,"</hi> I'd have them understand,</l>
+               <l>No marks the margins must de-<hi>face</hi> from any busy <hi>"hand!"</hi>
+               </l>
+               <l>Marks, as re-marks, in books of Clark's, when e'er some eritie spy leaves,</l>
+               <l>It always him so <hi>wasp</hi>-ish makes, though they're but on the <hi>fly</hi>-leaves!</l>
+               <l>Yes, if so they're used, he'd not de-<hi>for</hi> to <hi>deal</hi> a fate most meet</l>
+               <l>He'd have the soiler of his <hi>quires</hi> do penance in a <hi>sheet!</hi>
+               </l>
+               <l>The Ettrick <hi>Hogg</hi> ne'er deemed a <hi>bore</hi>-his candid mind revealing,</l>
+               <l>Declares, to beg "a <hi>copy</hi>" now's a mere pre-<hi>teat</hi> for stealing!</l>
+               <l>So, as some knave to grant the loan of this my book may wish me,</l>
+               <l>I thus my book-<hi>plate</hi> here display, lest some such "fry" should <hi>dish</hi> me!</l>
+            </lg>
+            <lg>
+               <l>But hold, though I again declare WITH-holding I'll not <hi>brook,</hi>
+               </l>
+               <l>And "a <hi>sea</hi> of trouble" still shall take to bring book-worms "to <hi>book!</hi>"</l>
+            </lg>
+            <pb facs="tcp:38411:2"/>
+            <!-- PDF PAGE 12 -->
+            <pb facs="tcp:38411:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <pb facs="tcp:38411:3"/>
+            <!-- PDF PAGE 13 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:38411:4"/>
+            <!-- PDF PAGE 14 -->
+            <pb n="3" facs="tcp:38411:4" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <head>Great and good News FOR THE <hi>Church of England,</hi> If they Pleaſe to Accept thereof: OR THE Latitudinarian Chriſtians Moſt Humble Addreſs and Advice, &amp;c.</head>
+            <l>YOU Topping Clergy of the <hi>Engliſh Church,</hi>
+            </l>
+            <l>Who ſtill would leave Diſſenters in the Lurch,</l>
+            <l>And by your Laws have always them Perplext,</l>
+            <l>And with your Pinfolds have them ſorely Vext;</l>
+            <l>Whom you have Proſecuted unto Death,</l>
+            <l>And ſo will do (we fear) while you have Breath:</l>
+            <l>We pray that you will take this in good Part,</l>
+            <l>Which we preſent both from our Hands and Heart,</l>
+            <l>Wherein You'l find no Plots, nor no Deſigns,</l>
+            <l>But only ſuch to mend the preſent Times,</l>
+            <l>The which if you (with patience) will Peruſe,</l>
+            <l>You'l ſee we ſhall not in the leaſt Abuſe</l>
+            <l>Your Gravities with any frothy Story,</l>
+            <l>But what ſhall tend unto your future Glory;</l>
+            <l>
+               <pb n="4" facs="tcp:38411:5"/>
+               <!-- PDF PAGE 15 -->
+We wiſh with all our Hearts your Church to ſee,</l>
+            <l>A true Reformed one to ſet us Free</l>
+            <l>From Penal Statutes, likewiſe from all Such</l>
+            <l>Who will compel all Men to come to Church,</l>
+            <l>Before they are convinc'd which Church is true,</l>
+            <l>And ſuch (to our great Grief) were moſt of You,</l>
+            <l>Who would us force beyond that Goſpel Light,</l>
+            <l>Which bids firſt Prove, and then to take the Right:</l>
+            <l>That Light's our Rule, our Reaſon is the Judge,</l>
+            <l>And for that Topick you did us ſo Grudge;</l>
+            <l>We muſt except thoſe Maſters of great Sence,</l>
+            <l>Which to Diſſenters never gave Offence,</l>
+            <l>But have true Love and Charity for All,</l>
+            <l>Who through Chriſt upon the Lord do Call;</l>
+            <l>And no diſtinction now among us Make,</l>
+            <l>Bearing good will to all for Chriſt his Sake;</l>
+            <l>Such Men we'l own ſo long as we have Breath,</l>
+            <l>A ſweet Perfume they leave here after Death:</l>
+            <l>Theſe are the Men which in your Church are Beſt,</l>
+            <l>(A thing too ſerious to be made a Jeſt)</l>
+            <l>Though oft traduc'd for this Chriſtian Frame,</l>
+            <l>By your own ſelves, wherein you are to Blame</l>
+            <l>For to relate that they will tack About</l>
+            <l>To any ſide before they will turn Out:</l>
+            <l>
+               <hi>Trimmers</hi> you call them, Men of Latitude,</l>
+            <l>And ſo expoſe them to the Multitude,</l>
+            <l>Who can't diſtinguiſh between Doves and Crows,</l>
+            <l>Between a <hi>Jehu</hi> Race of Men and Thoſe</l>
+            <l>Who are the Grace of all your <hi>Engliſh Church,</hi>
+            </l>
+            <l>We pray to God that you may all be ſuch.</l>
+            <l>Draw out theſe Worthy Men but from your Line,</l>
+            <l>Your Churches will appear like <hi>Pharoahs</hi> Kine.</l>
+            <l>
+               <pb n="5" facs="tcp:38411:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 15 -->
+The Reverend <hi>Whitchcot,</hi> your own Churches Son,</l>
+            <l>Taught this great Truth, (and now to Heav'n is Gon)</l>
+            <l>That every Man here for himſelf judg muſt,</l>
+            <l>And not to take our Faith on Humane Truſt;</l>
+            <l>But ſearch and try until we plainly See,</l>
+            <l>What Men propoſe with Gods Word do Agree</l>
+            <l>(Like the <hi>Berean</hi> Saints who did the Same,</l>
+            <l>And by it got an everlaſting Name,</l>
+            <l>For noble Minds, upon Divine Record,</l>
+            <l>For their ſtrict ſearch into his Sacred Word)</l>
+            <l>Write by his Copy, and let all Men See,</l>
+            <l>You love not Force, but equal Liberty.</l>
+            <l>This thing alone advance your Church will More,</l>
+            <l>Then all thoſe Laſh-whips uſed Heretofore</l>
+            <l>In this our Land, to ſcourge Diſſenters In,</l>
+            <l>(Though firſt contrived by the Man of Sin)</l>
+            <l>Our Gracious Prince hath now led us the Way,</l>
+            <l>Pray do not you too long behind him Stay;</l>
+            <l>Advance betimes (next Year may be to Late,)</l>
+            <l>Before your Church receive a bruiſed Pate,</l>
+            <l>You do poſtpone our Happineſs Herein,</l>
+            <l>And make your Church Obnoxious to the King,</l>
+            <l>Who hath you promis'd fairly to Protect;</l>
+            <l>But if his Favours you ſo much Neglect,</l>
+            <l>And will ſtand out; yet if his Bowls run True,</l>
+            <l>It will be done, and then no thanks to You;</l>
+            <l>Active Obedience to his juſt Command,</l>
+            <l>Is now adaies, only a Rope of Sand.</l>
+            <l>The <hi>Non-reſiſtance</hi> formerly you Taught,</l>
+            <l>Is at this time eſteemed good for Naught;</l>
+            <l>Your <hi>Eagle</hi> Eyes, in this bright Age ſees More,</l>
+            <l>Then all your Predeceſſor Heretofore:</l>
+            <l>
+               <pb n="6" facs="tcp:38411:6"/>
+               <!-- PDF PAGE 16 -->
+Paſſive Obedience now is gon Aſtray;</l>
+            <l>Prayers and Tears, which was the only Way</l>
+            <l>In former times unto a future Glory,</l>
+            <l>Is now become a Complimental Story.</l>
+            <l>The Royal Word, it was a ſacred Text</l>
+            <l>In the laſt Reign; but now you are ſo Vext,</l>
+            <l>When this great Prince doth offer you ſo Fare,</l>
+            <l>Which ſhews to him what ſort of Men you Are;</l>
+            <l>Let <hi>Coeſar</hi> hugg you, then you will all Sing</l>
+            <l>
+               <hi>Vive le Roy,</hi> God bleſs our gracious King;</l>
+            <l>But if he touch your Laws but in the Leaſt,</l>
+            <l>Though unjuſt, then to the ſearlet Beaſt,</l>
+            <l>He is of kin, that nothing will go Down</l>
+            <l>With your fat <hi>Church,</hi> that will advance his <hi>Crown;</hi>
+            </l>
+            <l>Unleſs your ſelves ſhall Partners be with Him,</l>
+            <l>You'l wear the <hi>Scepter,</hi> him the <hi>Diadem.</hi>
+            </l>
+            <l>(Unhappy Prince, whoſe Prieſts do him Beſtride.</l>
+            <l>Not to advance Gods Truth, but their own Pride)</l>
+            <l>This is the very temper of all Such</l>
+            <l>Who are true <hi>Tories</hi> in your <hi>Engliſh Church;</hi>
+            </l>
+            <l>Though you pretend to be ſo truly Loyal,</l>
+            <l>Yet when from <hi>Court</hi> you have the leaſt Denial</l>
+            <l>In what you do expect, oh then you Huff,</l>
+            <l>And Heaven, and Bounce, and preſently take Snuff;</l>
+            <l>And ſo as Male-contents you all Agree,</l>
+            <l>To ſound Defiance to his <hi>Majeſty,</hi>
+            </l>
+            <l>In what he doth ſo Chriſtian like Propoſe</l>
+            <l>To all his Subjects whether Friends or Foes,</l>
+            <l>With ſo much Reaſon, Equity and Right,</l>
+            <l>That all good Men in him their Souls Delight:</l>
+            <l>And pray ſo heartily for him that He</l>
+            <l>From Antichriſtian Yokes may make us Free;</l>
+            <l>
+               <pb n="7" facs="tcp:38411:6"/>
+               <!-- PDF PAGE 16 -->
+And in due time may he his Subjects Bring</l>
+            <l>To their right wits, and then we all ſhall Sing,</l>
+            <l>This is the Prince of all the <hi>Norman</hi> Race,</l>
+            <l>Who came ſo near to the true <hi>Chriſtian</hi> Pace;</l>
+            <l>And ſure will be when Men have ſpent their Darts,</l>
+            <l>Not King of Clubs, but King of all our Hearts,</l>
+            <l>Which God Almighty grant in his good Time,</l>
+            <l>That all may, ſay, he is a Prince Divine.</l>
+            <l>Now for the <hi>Teſt,</hi> Let not your <hi>Engliſh Church</hi>
+            </l>
+            <l>Be ſo concern'd, but leave that unto ſuch,</l>
+            <l>Which ſhall our. Truſtees be, who doubtleſs Will</l>
+            <l>Act that Affair with Prudence and with Skill:</l>
+            <l>If they propoſe therein ſomething in Stead,</l>
+            <l>What's that to us, ſo they can pleaſe the Head:</l>
+            <l>(All would be States-men in this preſent Age,</l>
+            <l>Moſt of them over wiſe, few truly Sage)</l>
+            <l>To joyn with him in that which is ſo Meet,</l>
+            <l>Moſt Men will ſay therein you'l be Diſcreet:</l>
+            <l>But by refuſing of your free Conſent,</l>
+            <l>What do you mean, or what is your Intent,</l>
+            <l>In this affair, except it be, to Show</l>
+            <l>You will be croſs, unleſs your Church ſhall Crow,</l>
+            <l>And drive all others from their preſent Station,</l>
+            <l>Which is once more, to begger half the Nation.</l>
+            <l>(This we inſert here only for your Sake,</l>
+            <l>Becauſe the right way, we would have you Take)</l>
+            <l>Our Valiant Prince for us hath led the Van,</l>
+            <l>Lets take his Reer with all the ſpeed we Can;</l>
+            <l>This plain <hi>Addreſs</hi> may ſerve to mend us All,</l>
+            <l>Don't then reject; what's offer'd from <hi>White-Hall;</hi>
+            </l>
+            <l>Should you withſtand this equal Liberty,</l>
+            <l>Moſt men would ſay, your <hi>Church</hi> loves <hi>Popery</hi>
+            </l>
+            <l>
+               <pb n="8" facs="tcp:38411:7"/>
+               <!-- PDF PAGE 17 -->
+More then all them, who now do it Profeſs,</l>
+            <l>How you'l come off herein we cannot Gueſs:</l>
+            <l>And thoſe who ſhall now bear it for their Creſt,</l>
+            <l>Will be a Faction ſure to all the Reſt;</l>
+            <l>Who will combine together to pull Down,</l>
+            <l>All topping <hi>Tories,</hi> that ſhall wear that <hi>Crown;</hi>
+            </l>
+            <l>Joyn then with us, and you ſhall quickly See,</l>
+            <l>We ſhall be in that Year of Jubilee,</l>
+            <l>Which is to come to paſs in this our Iſle,</l>
+            <l>By Northren Race, to make this Nation ſmile;</l>
+            <l>Our Chriſtian Star, hath brought us near that Point,</l>
+            <l>Which will Cement us all in every Joynt,</l>
+            <l>Unleſs you ſhall it ſtubbornly Prevent,</l>
+            <l>By throwing Bones into next Parliament;</l>
+            <l>Which if you ſhould, you may repent too Late,</l>
+            <l>When Truth ſhall riſe with ſplendor and in State;</l>
+            <l>And make you all, when with her you ſhall Meet,</l>
+            <l>Fall down and proſtrate at her Sacred Feet:</l>
+            <l>So Heavens protect you, and your <hi>Engliſh Church,</hi>
+            </l>
+            <l>So far as truly Chriſtian, without Burch,</l>
+            <l>Which are the wiſhes of your faithful Friends,</l>
+            <l>When Truth prevails, 'twill make us all amends;</l>
+            <l>Then to advance her, we will ſpare no Pains,</l>
+            <l>For by her progreſs, we ſhall reap the Gains;</l>
+            <l>Though for a while, ſhe may yet wear a Vail,</l>
+            <l>Doubtleſs ere long, Gods Truth will here Prevail.</l>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:38411:7"/>
+            <!-- PDF PAGE 17 -->
+         </div>
+      </body>
+   </text>
+</TEI>
